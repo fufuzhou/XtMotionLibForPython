@@ -2,6 +2,7 @@ import ctypes
 import matplotlib.pyplot as plt
 import matplotlib as mpl
 import numpy as np
+import C_SoftLanding_dll
 
 # dl = ctypes.cdll.LoadLibrary("./MotionControlDll.dll")
 #
